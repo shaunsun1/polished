@@ -37,5 +37,5 @@ Imports:
     jose,
     stringr
 Remotes: 
-    github::tychobra/tychobratools
+    github::shaunsun1/tychobratools@in-use-july
 RoxygenNote: 7.1.0
